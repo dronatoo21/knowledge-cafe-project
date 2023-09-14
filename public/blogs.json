@@ -1,0 +1,43 @@
+[
+    {
+      "ID": 1,
+      "Cover": "https://i.ibb.co/L1b6xSq/shape.jpg",
+      "Title": "The Secret Garden",
+      "Author": "Jessica Smith",
+      "Image": "https://i.ibb.co/D9wWRM6/olivia.jpg",
+      "Posted_Date": "July 15, 2023",
+      "Reading_Time": 45,
+      "Hashtags": ["Mystery", "Adventure", "Nature"]
+    },
+    {
+      "ID": 2,
+      "Cover": "https://i.ibb.co/QPNzYVy/moonlight.jpg",
+      "Title": "Lost in Time",
+      "Author": "David Anderson",
+      "Image": "https://i.ibb.co/fDbPv7h/Noha.jpg",
+      "Posted_Date": "August 5, 2023",
+      "Reading_Time": 60,
+      "Hashtags": ["ScienceFiction", "TimeTravel", "Adventure"]
+    },
+    {
+      "ID": 3,
+      "Cover": "https://i.ibb.co/NTncwqH/luahg-at-pain.jpg",
+      "Title": "Whispers in the Wind",
+      "Author": "Emily White",
+      "Image": "https://i.ibb.co/XVHM7NP/kevin.jpg",
+      "Posted_Date": "June 20, 2023",
+      "Reading_Time": 30 ,
+      "Hashtags": ["Romance", "Mystery", "LoveStory"]
+    },
+    {
+      "ID": 4,
+      "Cover": "https://i.ibb.co/Yc4p5gD/inside-amy.jpg",
+      "Title": "The Enchanted Forest",
+      "Author": "Michael Johnson",
+      "Image": "https://i.ibb.co/YD2mqH7/amy.jpg",
+      "Posted_Date": "July 10, 2023",
+      "Reading_Time": 55,
+      "Hashtags": ["Fantasy", "Magic", "Adventure"]
+    }
+  ]
+  
