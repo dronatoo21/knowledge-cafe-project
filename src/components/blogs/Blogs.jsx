@@ -13,9 +13,9 @@ const Blogs = ({handleBookmark, handleRead}) => {
     }, []);
 
     return (
-        <div className=" w-3/4">
+        <div key={'haha'} className=" w-3/4">
             {
-                blogs.map(blog => <Blog key={blog.id} handleRead={handleRead} handleBookmark={handleBookmark} blog={blog}></Blog>)
+                blogs.map((blog, idx) => <Blog key={idx} handleRead={handleRead} handleBookmark={handleBookmark} blog={blog}></Blog>)
             }
         </div>
     );

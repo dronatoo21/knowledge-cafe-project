@@ -9,7 +9,7 @@ const Bookmarks = ({bookmaks}) => {
 };
 
 Bookmarks.propTypes = {
-    bookmak: PropTypes.array.isRequired
+    bookmaks: PropTypes.array.isRequired
 }
 
 export default Bookmarks;
